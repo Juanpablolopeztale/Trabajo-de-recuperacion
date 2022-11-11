@@ -1,0 +1,956 @@
+#text-1{
+    width: 899px;
+height: 88px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 74px;
+line-height: 88px;
+/* identical to box height */
+margin-left: 50px ;
+    
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#text-2{
+    width: 899px;
+height: 94px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+margin-left: 50px ;
+    
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+#text-3{
+    width: 899px;
+    height: 56px;
+    
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 50px ;
+    
+    color: #333333;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+#text-4{
+    width: 87px;
+height: 39px;
+margin-left: 100px ;
+
+
+font-style: normal;
+font-family: 'Noto Sans', sans-serif;
+font-weight: 700;
+font-size: 34px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+#linea{
+    width: 48px;
+height: 0px;
+
+border: 2px solid #333333;
+position: relative;
+top: 40px;
+margin-left: -60px;
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+#contenedor-1{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 56px;
+
+width: 1520px;
+height: 640px;
+}
+
+#imagen1{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 4px;
+gap: 4px;
+
+width: 550px;
+position: relative;
+margin-left: -600px ;
+top: 250px;
+height: 640px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+#text-6{
+    position: relative;
+    margin-left: 1350px;
+}
+#imagen6{
+    position: relative;
+    top: 5px;
+}
+#inmagen3{
+    position: relative;
+    top: -85px;
+    margin-left: 550px;
+    width: 40px;
+    height: 50px;
+
+}
+#imagen5{
+    position: relative;
+    top: -75px;
+}
+#imagen4{
+    position: relative;
+    top: -95px;
+}
+#AA{
+    position: relative;
+    margin-left: 25 px;
+    top: 400px;
+    width: 175px;
+}
+#textlinea2{
+    margin: 450px;
+    margin-left: 500px;
+    top: 450px;
+    font-size: 35px;
+}
+#imagen2-1{
+   
+    position: relative;
+    margin-left: 150px;
+    top: -400px;
+
+    
+}
+#caja1{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px 40px;
+gap: 60px;
+
+width: 380px;
+height: 409px;
+position: relative;
+margin-left: 30px;
+
+background: #333333;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0
+}
+
+#text2-1{
+    width: 300px;
+height: 110px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+position: relative;
+line-height: 55px;
+top: 40px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+#text2-2{
+    width: 300px;
+height: 42px;
+font-family: 'Noto Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+position: relative;
+top: -155px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+#text2-3{
+    width: 94px;
+height: 21px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+position: relative;
+top: 80px;
+margin-right: 275px;
+}
+#flecha{
+    position: relative;
+    top: -17px;
+    margin-left: 315px;
+    cursor: pointer;
+}
+#caja2{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px 40px;
+gap: 60px;
+
+width: 380px;
+height: 409px;
+position: relative;
+margin-left: 30px;
+position: relative;
+margin-left: 550px;
+top: -449px;
+background: #D6D6D6;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0
+}
+#text2-4{
+    width: 300px;
+height: 110px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height:155px;
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+#titulo{
+    
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 54px;
+
+/* identical to box height */
+position: relative  ;
+margin-left: 650px;
+
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#caja3{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px 40px;
+gap: 60px;
+
+width: 380px;
+height: 409px;
+position: relative;
+margin-left: 30px;
+position: relative;
+margin-left: 1050px;
+top: -899px;
+background: #D6D6D6;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0
+}
+#text2-4{
+    width: 300px;
+height: 110px;
+
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height:55px;
+position: relative;
+top: 55px;
+
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+#text2-5{
+    
+width: 300px;
+font-family: 'Noto Sans', sans-serif;
+height: 42px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #333333;
+
+position: relative;
+top: -142px;
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+#text2-6{
+    
+width: 94px;
+height: 21px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+position: relative;
+top: 85px;
+margin-left: -280px;
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#text3-1{
+    width: 229px;
+height: 64px;
+
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 54px;
+line-height: 64px;
+/* identical to box height */
+position: relative;
+margin-left: 700px;
+top: -800px;
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#text3-2{
+   
+    width: 500px;
+    height: 21px;
+    
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #464343;
+    
+    position: relative;
+    margin-left: 650px;
+    top: -800px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+#text3-3{
+ 
+
+font-family: 'Noto Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 50px;
+
+color: #333333;
+
+position: relative;
+top: -800px;
+margin-left: 590px;
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+#Gal1{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px;
+gap: 60px;
+
+width: 485.33px;
+height: 525px;
+
+background:  url(hector-falcon-zfvNbcpiIQI-unsplash.jpg);
+
+/* Inside auto layout */
+position: relative;
+top: -750px;
+margin-left: 100px;
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+}
+#Gal2{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px;
+gap: 60px;
+
+width: 485.33px;
+height: 525px;
+position: relative;
+top: -800px;
+margin-left: 100px;
+
+background:  url(boxed-water-is-better-7mr6Yx-8WLc-unsplash.jpg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+}
+#Gal3{
+    display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-end;
+padding: 40px 20px;
+gap: 60px;
+position: relative;
+top: -1960px;
+margin-left: 650px;
+
+width: 485.33px;
+height: 638px;
+
+background:  url(nick-adams-yTWq8n3-4k0-unsplash.jpg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+#Gal4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    gap: 60px;
+    
+    width: 485.33px;
+    height: 412px;
+    position: relative;
+    top: -2010px;
+margin-left: 630px;
+    
+    background:  url(kelly-sikkema-gcHFXsdcmJE-unsplash.jpg);
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 1;
+}
+#Gal5{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px;
+gap: 60px;
+
+width: 485.33px;
+height: 419px;
+
+background:  url(markus-spiske-KeFyYzxqmH0-unsplash.jpg);
+
+/* Inside auto layout */
+position: relative;
+    top: -3170px;
+margin-left: 1150px;
+    
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+}
+#Gal6{
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    gap: 60px;
+
+    width: 485.33px;
+    height: 631px;
+
+    background:  url(krisztian-tabori-IyaNci0CyRk-unsplash.jpg);
+
+    /* Inside auto layout */
+    position: relative;
+    top: -3220px;
+margin-left: 1150px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.Gal8{
+   
+
+    position: relative;
+    top: -3220px;
+    margin-left: 350px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+#titulo2{
+    
+
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    
+    /* identical to box height */
+        position: relative  ;
+        top: -2700px;
+        margin-left: 650px;
+    
+    
+    color: #333333;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+#man{
+    
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px;
+gap: 60px;
+position: relative  ;
+    top: -2700px;
+    margin-left: 100px;
+width: 486px;
+height: 589px;
+
+background:  url(linkedin-sales-navigator-pAtA8xe_iVM-unsplash.jpg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#signo{
+    position: relative;
+    top: -3300px;
+    margin-left: 700px;
+}
+#signo2{
+    position: relative;
+    top: -3300px;
+    margin-left: 0px;
+}
+#titulo3{
+    
+width: 934px;
+height: 141px;
+
+font-family: 'Noto Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #333333;
+position: relative;
+top: -3300px;
+    margin-left: 700px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+#signo3{
+    position: relative;
+    top: -3300px;
+    margin-left: 1453px;
+}
+#signo4{
+    position: relative;
+    top: -3300px;
+    margin-left: 0px;
+}
+#titulo4{
+    width: 934px;
+height: 33px;
+font-family: 'Noto Sans', sans-serif;
+
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 33px;
+
+color: #333333;
+position: relative;
+top: -3300px;
+    margin-left: 700px;
+
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+#titulo5{
+    width: 934px;
+height: 24px;
+
+font-family: 'Noto Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #333333;
+position: relative;
+top: -3310px;
+    margin-left: 700px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+#punto{
+    position: relative;
+    top: -3237px;
+    margin-left: 750px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+#punto2{
+    position: relative;
+    top: -3237px;
+    margin-left: 30px;
+    
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+#punto3{
+    position: relative;
+    top: -3237px;
+    margin-left: 30px;
+ 
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+#cuadro{
+    position: relative;
+    top: -2970px;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 100px 200px;
+gap: 80px;
+isolation: isolate;
+
+
+width: 1920px;
+height: 591px;
+left: 0px;
+
+
+background: #363434;
+}
+#hello{
+    position: absolute;
+width: 1541px;
+height: 640px;
+left: 189px;
+top: -550px;
+
+font-family: 'Noto Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 740px;
+opacity: 0.2;
+line-height: 640px;
+/* identical to box height */
+
+letter-spacing: 0.13em;
+
+color: #807e7e;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+}
+#text2-11{
+    width: 300px;
+height: 110px;
+
+font-family: 'Rubik';
+font-style: normal;
+
+position: relative;
+line-height: 55px;
+margin-left: 600px;
+top: -130px;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#text2-12{
+
+    width: 372px;
+    height: 64px;
+    
+position: relative;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 560px;
+    font-size: 54px;
+    line-height: 64px;
+    top: -290px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    ;
+}
+#blanco{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px 40px;
+
+width: 185px;
+height: 73px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+}
+#text134{
+    width: 105px;
+height: 33px;
+font-family: 'Noto Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 33px;
+position: relative;
+top: -15px;
+margin-left: 15px;
+color: #363434;
+cursor: pointer;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
